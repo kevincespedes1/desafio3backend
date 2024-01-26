@@ -1,0 +1,142 @@
+[
+    {
+        "nombre": "Camiseta básica",
+        "precio": 1500,
+        "categoria": "Ropa",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Jeans ajustados",
+        "precio": 2500,
+        "categoria": "Ropa",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Sudadera con capucha",
+        "precio": 3500,
+        "categoria": "Ropa",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Zapatos deportivos",
+        "precio": 4500,
+        "categoria": "Calzado",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Falda plisada",
+        "precio": 3000,
+        "categoria": "Ropa",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Chaqueta de cuero",
+        "precio": 5000,
+        "categoria": "Ropa",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Vestido de noche",
+        "precio": 6000,
+        "categoria": "Ropa",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Traje de baño",
+        "precio": 2000,
+        "categoria": "Ropa",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Pantalones cortos",
+        "precio": 1800,
+        "categoria": "Ropa",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Bufanda de lana",
+        "precio": 1200,
+        "categoria": "Accesorio",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Gorra de béisbol",
+        "precio": 1000,
+        "categoria": "Accesorio",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Calcetines deportivos",
+        "precio": 800,
+        "categoria": "Accesorio",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Cinturón de cuero",
+        "precio": 900,
+        "categoria": "Accesorio",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Gafas de sol",
+        "precio": 3000,
+        "categoria": "Accesorio",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Bolsa de mano",
+        "precio": 4000,
+        "categoria": "Accesorio",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Pendientes de oro",
+        "precio": 7000,
+        "categoria": "Joyería",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Anillo de plata",
+        "precio": 5000,
+        "categoria": "Joyería",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Collar de perlas",
+        "precio": 8000,
+        "categoria": "Joyería",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Reloj de pulsera",
+        "precio": 10000,
+        "categoria": "Joyería",
+        "año": 2023,
+        "imagen": ""
+    },
+    {
+        "nombre": "Paraguas elegante",
+        "precio": 1500,
+        "categoria": "Accesorio",
+        "año": 2023,
+        "imagen": ""
+    }
+]
